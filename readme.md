@@ -1,4 +1,4 @@
- Análise Exploratória de Dados: Emendas Parlamentares e Transparência
+# Análise Exploratória de Dados: Emendas Parlamentares e Transparência
  Visão Geral:
 Este projeto une os fundamentos da Ciência de Dados ao compromisso com a transparência pública. Através de uma análise exploratória (EDA) em um dataset de emendas parlamentares brasileiras (2014-2023), o objetivo foi transformar registros brutos em informações estruturadas, auditáveis e estratégicas.
 
