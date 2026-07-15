@@ -1,6 +1,4 @@
-Aqui está o relatório do seu trabalho prático com um visual mais limpo, profissional e estruturado para facilitar a leitura.
 
----
 
 # Relatório Prático: Análise Exploratória de Emendas Parlamentares (2014–2025)
 
